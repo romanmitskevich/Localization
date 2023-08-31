@@ -4,51 +4,51 @@
 
 # # h1 Heading<br>## h2 Heading<br>### h3 Heading<br>#### h4 Heading<br>##### h5 Heading<br>###### h6 Heading
 
-## h2 Heading
+## h2 Заголовок
 
-### h3 Heading
+### h3 заголовок
 
-#### h4 Heading
+#### h4 заголовок
 
-##### h5 Heading
+##### h5 заголовок
 
-###### h6 Heading
-
----
+###### h6 Заголовок
 
 ---
 
 ---
 
-**This is bold text**
+---
 
-**This is bold text**
+**Это жирный текст**
 
-*This is italic text*
+**Это жирный текст**
 
-*This is italic text*
+*Это курсив*
+
+*Это курсив*
 
 ~~Strikethrough~
 
-> Blockquotes can also be nested...
+> Блоковые кавычки также могут быть вложенными...
 >
-> > ...by using additional greater-than signs right next to each other...
+> > ...используя дополнительные знаки «больше» рядом друг с другом...
 > >
-> > > ...or with spaces between arrows.
+> > > ...или с пробелами между стрелками.
 
-1. Lorem ipsum dolor sit amet
+1. Lorem ipsum dolor сидеть амет
 
 2. Consectetur adipiscing elit
 
-3. Integer molestie lorem at massa
+3. Целочисленное домогательство и масса
 
-4. You can use sequential numbers...
+4. Вы можете использовать последовательные номера...
 
-5. ...or keep all the numbers as `1.`
+5. ...или оставьте все числа равными `1.`
 
-6. foo
+6. фу
 
-7. bar
+7. бар
 
 ```js
 var foo = function (bar) {
@@ -58,8 +58,8 @@ var foo = function (bar) {
 console.log(foo(5));
 ```
 
-Option | Description
+Вариант | Описание
 --- | ---
-data | path to data files to supply the data that will be passed into templates.
-engine | engine to be used for processing templates. Handlebars is the default.
-ext | extension to be used for dest files.
+данные | путь к файлам данных для предоставления данных, которые будут переданы в шаблоны.
+двигатель | механизм, который будет использоваться для обработки шаблонов. Руль установлен по умолчанию.
+доб. | расширение, которое будет использоваться для файлов назначения.

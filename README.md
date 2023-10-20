@@ -1,3 +1,6 @@
-<b>*em on b*</b>
+Before <h1> Install <em>value</em> the Python development _install_ environment </h1>
 
-*<b>b on em</b>*
+<ul>
+  <li>First _value_</li>
+  <li>Second <em>value</em></li>
+</ul>

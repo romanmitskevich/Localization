@@ -1,44 +1,35 @@
-<ul>
-  <li>First <em>value</em></li>
-  <li>Second <em>value</em></li>
-  <li>Third <em>value</em></li>
-</ul>
+<h1>First heading</h1>
+<h2>Second heading</h2>
+<h3>Third heading</h3>
+<h4>Fourth heading</h4>
+<h5>Fifth heading</h5>
 
-<ul>
-  <li>First <em>value</em></li>
-  <li>First <em>value</em>
-    <ul>
-      <li>First <em>value</em></li>
-      <li>Second <em>value</em></li>
-      <li>Third <em>value</em></li>
-    </ul>
-  </li>
-  <li>Third <em>value</em></li>
-</ul>
 
-<ol>
-  <li>First <em>value</em></li>
-  <li>First <em>value</em>
-    <ol>
-      <li>First <em>value</em></li>
-      <li>First <em>value</em>
-        <ol>
-          <li><h1><em>value Second value</em></h1></li>
-          <li><p><em>value Second value</em></p>
-            <ol>
-              <li>First <em>value</em></li>
-              <li>First <em>value</em>
-                <ol>
-                  <li>First <em>value</em></li>
-                  <li>Second <em>value</em></li>
-                  <li>Third <em>value</em></li>
-                </ol></li>
-              <li>Third <em>value</em></li>
-            </ol>
-          </li>
-          <li>Third <em>value</em></li>
-        </ol></li>
-      <li>Third <em>value</em></li>
-    </ol></li>
-  <li>Third <em>value</em></li>
-</ol>
+Before <h1>First heading</h1>
+Before <h2>Second heading</h2>
+Before <h3>Third heading</h3>
+Before <h4>Fourth heading</h4>
+Before <h5>Fifth heading</h5>
+
+
+<h1>First heading</h1>
+
+<h2>Second heading</h2>
+
+<h3>Third heading</h3>
+
+<h4>Fourth heading</h4>
+
+<h5>Fifth heading</h5>
+
+
+Before <h1>First heading</h1>
+
+Before <h2>Second heading</h2>
+
+Before <h3>Third heading</h3>
+
+Before <h4>Fourth heading</h4>
+
+Before <h5>Fifth heading</h5>
+

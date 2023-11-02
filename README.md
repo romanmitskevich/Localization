@@ -1,9 +1,5 @@
-Before <h5>Fifth heading</h5>
+<b>*em <a href="https://problem.it">https://problem.it _text_ </a> b*</b>
 
-<h5>Fifth heading</h5>
+*text <b>*em <b>text</b> b*</b>*
 
-Before <div>Fifth heading</div>
-
-Before <ul><li>Fifth heading</li></ul>
-
-Before <pre>Fifth heading</pre>
+*text <b>*em `text` b*</b>*

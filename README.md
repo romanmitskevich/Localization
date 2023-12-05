@@ -1,5 +1,35 @@
-<b>*em <a href="https://problem.it">https://problem.it _text_ </a> b*</b>
+```
+<aside title="Зачёркивание" src="demos/strikethrough/" height="150"></aside>
+<iframe title="Зачёркивание" src="demos/strikethrough/" height="150"></iframe>
 
-*text <b>*em <b>text</b> b*</b>*
+```
 
-*text <b>*em `text` b*</b>*
+
+```
+<aside title="Зачёркивание" src="demos/strikethrough/" height="150"></aside>
+
+text
+
+<iframe title="Зачёркивание" src="demos/strikethrough/" height="150"></iframe>
+
+```
+
+
+```
+<aside title="Зачёркивание" src="demos/strikethrough/" height="150"></aside>
+
+<iframe title="Зачёркивание" src="demos/strikethrough/" height="150"></iframe>
+
+```
+
+
+```
+<iframe title="Зачёркивание" src="demos/strikethrough/" height="150"></iframe>
+
+```
+
+
+```
+<aside title="Зачёркивание" src="demos/strikethrough/" height="150"></aside>
+
+```

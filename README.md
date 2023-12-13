@@ -1,61 +1,39 @@
-`<iframe title="Зачёркивание" src="demos/strikethrough/" height="150"></iframe>`
+---
+My:
+  girl1:
+    name: "Kate2"
+    profile: |-
+      email@ya.by
+      customer
+girls:
+  - filles1
+  - filles2
+date: 2023-04-14
+---
 
-```
-<aside title="Зачёркивание" src="demos/strikethrough/" height="150"></aside>
-<iframe title="Зачёркивание" src="demos/strikethrough/" height="150"></iframe>
+<span data-md-type="paragraph">
+  <em>Than</em>
+    Text
+  <a href="/docs/privacy-sandbox/shared-storage/known-customer/">Link 1</a>
+</span>
 
-```
+<pre>
+   **Hello** `world`.
+   
+   ```javascript
+   alert('Hello syntax highlighting.');
+   ```
+</pre>
 
+<code>
+   **Hello** `world`.
+   
+   ```javascript
+   alert('Hello syntax highlighting.');
+   ```
+</code>
 
-~~~
-<aside>
+```markdown
+A paragraph.
 
-🤓 В англоязычных источниках для обозначения стилей написания заголовков используются термины Atx-style (для решёток) и [Setext](https://en.wikipedia.org/wiki/Setext)-style (для подчёркиваний).
-
-</aside>
-
-text
-
-<iframe title="Зачёркивание" src="demos/strikethrough/" height="150"></iframe>
-
-~~~
-
-
-```
-<aside>
-
-🤓 В англоязычных источниках для обозначения стилей написания заголовков используются термины Atx-style (для решёток) и [Setext](https://en.wikipedia.org/wiki/Setext)-style (для подчёркиваний).
-
-</aside>
-
-<iframe title="Зачёркивание" src="demos/strikethrough/" height="150"></iframe>
-
-```
-
-
-```
-<iframe title="Зачёркивание" src="demos/strikethrough/" height="150"></iframe>
-
-```
-
-
-```
-<aside title="Зачёркивание" src="demos/strikethrough/" height="150"></aside>
-
-```
-
-
-```md
-Привет,
-мир!
-```
-
-<iframe title="Перенос строк" src="demos/line-break/" height="280"></iframe>
-
-
-~~~md
-Привет,
-мир!
-~~~
-
-<iframe title="Перенос строк" src="demos/line-break/" height="280"></iframe>
+---

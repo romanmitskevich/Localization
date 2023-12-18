@@ -40,6 +40,9 @@ date: 14 апреля 2023 г.
 
 <code>
    **Hello** `world`.
+Text
+text
+   Text
    
    ```javascript
    alert('Hello syntax highlighting.');

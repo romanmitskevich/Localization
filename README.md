@@ -1,63 +1,48 @@
-<table>
-<thead>
-<tr>
-  <th>Name</th>
-  <th>Value</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>First name = Math</td>
-<td>First value = 1</td>
-</tr>
-<tr>
-<td>Second name = Science</td>
-<td>Second value = 2</td>
-</tr>
-<tr>
-<td>Third name = Arts</td>
-<td>Third value = 3</td>
-</tr>
-</tbody>
-</table>
+## Code
 
+```
 
----
-My:
-  girl1:
-    name: "Kate2"
-    profile: |-
-      email@ya.by
-      customer
-girls:
-  - filles1
-  - filles2
-date: 2023-04-14
----
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+  [pole1](../../../../documentation/components/reference/amp-story.md)
+  <code> Text [amp-story](../../../../documentation/components/reference/amp-story.md) </code>
+}
 
-<span data-md-type="paragraph">
-  <em>Than</em>
-    Text
-  <a href="/docs/privacy-sandbox/shared-storage/known-customer/">Link 1</a>
-</span>
+```
 
-<pre>
-   **Hello** `world`.
-   
-   ```javascript
-   alert('Hello syntax highlighting.');
-   ```
+See code <code>qq there, code <b><em>after </em></b> qq </code>after code <b><em>after </em></b>
+
+<div data-md-type=\"block_html\">
+  <pre>
+    echo sudo tee /etc/apt/sources.list.d/coral-edgetpu.list
+    <code>sudo apt-key add -</code>
+    <code>sudo apt-get update</code>
+  </pre>
+</div>
+
+<pre class="prettyprint lang-bsh">
+  <code class="devsite-terminal">python3 -m venv "venv"</code>
+  <code class="devsite-terminal">source "venv/bin/activate"</code>
+  <code class="devsite-terminal tfo-terminal-venv">pip install --upgrade "pip"</code>
 </pre>
 
-<code>
-   **Hello** `world`.
-   
-   ```javascript
-   alert('Hello syntax highlighting.');
-   ```
-</code>
+<pre class="prettyprint lang-bsh">
+  <code class="devsite-terminal">python3 -m venv "venv"</code>
+</pre>
 
-```markdown
-A paragraph.
+<pre class="prettyprint lang-bsh">
+  <code class="devsite-terminal">source "venv/bin/activate"</code>
+</pre>
 
----
+<div data-md-type="block_html">
+  <pre class="devsite-terminal">
+    echo sudo tee /etc/apt/sources.list.d/coral-edgetpu.list
+    <code class="devsite-terminal">sudo apt-key add -</code>
+    <code class="devsite-terminal">sudo apt-get update</code>
+    <code class="devsite-terminal">sudo apt-get install python3-tflite-runtime</code>
+  </pre>
+</div>
+
+Text

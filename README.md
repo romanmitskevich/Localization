@@ -29,6 +29,13 @@ See code <code>qq there, code <b><em>after </em></b> qq </code>after code <b><em
 </pre>
 
 <pre class="prettyprint lang-bsh">
+  echo sudo tee /etc/apt/sources.list.d/coral-edgetpu.list
+  <code class="devsite-terminal">python3 -m venv "venv"</code>
+  <code class="devsite-terminal">source "venv/bin/activate"</code>
+  <code class="devsite-terminal tfo-terminal-venv">pip install --upgrade "pip"</code>
+</pre>
+
+<pre class="prettyprint lang-bsh">
   <code class="devsite-terminal">python3 -m venv "venv"</code>
 </pre>
 
